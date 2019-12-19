@@ -1,0 +1,9 @@
+1 - A pasta 'Dataset' contém comentários brutos tirados separadamente dos 5 primeiros canais de streamer.
+
+2 - Na pasta 'HS_detection' serão salvos os arquivos .csv contendo os resultados do hatesonar, contendo a media de confiabilidade de cada categoria.
+
+3 - Na pasta 'Num_visualizações' será salvo em .csv um arquivo contendo o númenro de visualizações por canais de streamers
+
+4 - Na pasta 'PreprocessDataset' serão salvos os datasets após o preprocessamento
+
+5 - Na pasta profiles encontram-se os dados brutos de contendo além dos comentários outras características extraídas com a API do Twitch.
